@@ -27,6 +27,11 @@ public class CarServiceTest {
     public void setUp() {
 
     }
+    @Test
+    public void bedSmelltest() {
+        
+    }
+
 
     @Test
     public void getCarDetails_returnsCarInfo() {
